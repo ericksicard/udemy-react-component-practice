@@ -3,8 +3,6 @@ import AddUser from './components/Users/AddUsers';
 import UsersList from './components/Users/UsersList';
 
 
-
-
 function App() {
 
   const [userList, setUserList] = useState([])
